@@ -1,0 +1,17 @@
+.env
+
+.venv/
+
+__pycache__/
+
+*.pyc
+
+.pytest_cache/
+
+logs/
+
+data/
+
+docker-build.log
+
+.idea/
